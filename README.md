@@ -1,4 +1,4 @@
-# MSBD5011kaggle
+# Kaggle Project
 ## Programming and  Packages
     python3.6, jupyter notebook, numpy, pandas, sklearn, xgboost, datetime, matplotlib, striptime, plotnine
 ## Reproduction
